@@ -2,6 +2,10 @@
 
 CodeRunner is a scalable, asynchronous remote code execution engine capable of compiling and executing untrusted **C++** code securely. Built with a **Producer-Consumer architecture**, it leverages **Docker** for sandboxing, **Redis** for job queuing, and **Polling** for real-time status updates—replicating the core backend infrastructure of platforms like LeetCode.
 
+
+<img width="1881" height="1001" alt="image" src="https://github.com/user-attachments/assets/290b8f0e-97ea-49ac-8d53-a6b1d17a0fef" />
+
+
 ---
 
 ## 🎥 Live Demo
